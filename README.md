@@ -1,1 +1,1 @@
-# Augmenting-stock-price-prediction-with-sentiment-analysis
+# :moneybag: Augmenting-stock-price-prediction-with-sentiment-analysis
